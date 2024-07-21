@@ -4,8 +4,8 @@
     --CGV-image-height: calc(100vh - var(--CGV-footer-height));
 }
 
-.BasicUI .sharedappdetailsheader_TopCapsule_2meE3,
-.BasicUI .NZMJ6g2iVnFsOOp-lDmIP {
+.BasicUI .sharedappdetailsheader_TopCapsule_2meE3, /* [TODO] Remove once not used */
+.BasicUI .NZMJ6g2iVnFsOOp-lDmIP /* [TODO] update to a readable name once mapping is updated */{
     height: var(--CGV-top-panel-height);
 }
 
